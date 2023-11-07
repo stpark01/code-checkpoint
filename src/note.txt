@@ -1,0 +1,1 @@
+The src directory will contain HTML, CSS, and JavaScript files used for the front-end development of a test e-commerce website and a Solidity file used for the smart contract to use as a decentralized payment system for the test e-commerce website.
